@@ -7,10 +7,6 @@
 
 <style>
    table 
-{
-    width: 50%; 
-    background: #ffffff;
-    color: #fff5b1;
     border-spacing: 1px;
 }
    td, th 
